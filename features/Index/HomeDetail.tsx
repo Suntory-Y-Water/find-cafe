@@ -2,7 +2,7 @@ import React from 'react';
 
 const HomeDetail = () => {
   return (
-    <article className='max-w-4xl mx-auto'>
+    <article>
       <main>
         <section className='py-6'>
           <h1 className='text-3xl font-bold pb-4'>ここカフェん</h1> {/* 見出しの下の余白を広げる */}
