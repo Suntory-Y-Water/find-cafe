@@ -5,7 +5,7 @@ const HomeDetail = () => {
     <article>
       <main>
         <section className='py-6'>
-          <h1 className='text-3xl font-bold pb-4'>ここカフェん</h1> {/* 見出しの下の余白を広げる */}
+          <h1 className='text-3xl font-bold pb-4'>ここカフェん</h1>
           <p>
             『ここカフェん』は、あなたの周りの隠れた名店、個性豊かな個人運営のカフェを見つけるお手伝いをします。
           </p>
